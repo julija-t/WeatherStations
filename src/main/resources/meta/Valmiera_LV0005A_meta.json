@@ -1,0 +1,42 @@
+{
+    "station_info": {
+        "station_description": "A station located on the left bank of the Gauja River, in a commercial and residential zone, in the city centre",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 8,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": 960000,
+        "station_type_of_area": "urban",
+        "station_city": "VALMIERA",
+        "meteorological_parameter": [
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Relative humidity",
+            "Precipitation"
+        ],
+        "main_emission_source": "Commercial, institutional and residential combustion",
+        "street_name": "Rigas/Lachplescha",
+        "sabe_unit_code": 9601,
+        "station_end_date": "6-12-2001",
+        "sabe_country_code": "LV",
+        "station_name": "Valmiera",
+        "sabe_unit_name": "Valmiera",
+        "lau_level2_code": 960100,
+        "station_longitude_dms": "+025°25'41\"",
+        "number_of_vehicles": 2000,
+        "type_of_station": "Background",
+        "station_characteristic_of_zone": "residential/commercial",
+        "population": 28,
+        "station_latitude_decimal_degrees": 57.5394,
+        "station_altitude": 46,
+        "station_local_code": "V1",
+        "station_start_date": "1-5-1998",
+        "street_type": "Wide street: L/H > 1.5",
+        "station_european_code": "LV0005A",
+        "station_longitude_decimal_degrees": 25.4281,
+        "station_latitude_dms": "+057°32'22\"",
+        "lau_level2_name": "Valmiera"
+    }
+}

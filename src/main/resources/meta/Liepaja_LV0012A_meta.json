@@ -1,0 +1,50 @@
+{
+    "station_info": {
+        "station_description": "A station located in the city centre, in a residential and commercial zone",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 3,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": 170000,
+        "station_type_of_area": "urban",
+        "station_city": "LIEPAJA",
+        "meteorological_parameter": [
+            "Conductivity",
+            "pH",
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Absolute humidity",
+            "Relative humidity",
+            "Precipitation",
+            "Global radiation"
+        ],
+        "main_emission_source": "Road transport",
+        "street_name": "Kalpaka 34",
+        "sabe_unit_code": 1700,
+        "station_traffic_speed": 50,
+        "monitoring_obj": [
+            "Compliance monitoring for national legislation",
+            "Trend analysis"
+        ],
+        "sabe_country_code": "LV",
+        "station_name": "Liepaja",
+        "sabe_unit_name": "Liep¯aja",
+        "lau_level2_code": 170000,
+        "station_longitude_dms": "+021°00'00\"",
+        "number_of_vehicles": 10000,
+        "type_of_station": "Traffic",
+        "station_characteristic_of_zone": "residential/commercial",
+        "population": 96,
+        "station_latitude_decimal_degrees": 56.533333,
+        "station_altitude": 4,
+        "station_local_code": "L-1",
+        "station_start_date": "27-12-1999",
+        "street_type": "Highway: average speed vehicles > 80 km/h",
+        "station_european_code": "LV0012A",
+        "station_longitude_decimal_degrees": 21,
+        "station_latitude_dms": "+056°32'00\"",
+        "lau_level2_name": "Liepaja"
+    }
+}

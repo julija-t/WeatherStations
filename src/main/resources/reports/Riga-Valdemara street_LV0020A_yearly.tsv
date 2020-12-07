@@ -1,0 +1,21 @@
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Benzene (air)	C6H6	ug/m3	Gas chromatography with photo ionization detector	day	3.208	2.700	2.614	2.500	0.686	0.404 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2003_mean	year_2004_mean	year_2005_mean	year_2006_mean 
+ Carbon monoxide (air)	CO	mg/m3	infrared absorption	day	1.699	1.420	0.877	0.920 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2006_mean	year_2006_median(P50) 
+ Nitrogen dioxide (air)	NO2	ug/m3	chemiluminescence	day	44.742	43.871 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2006_mean	year_2006_median(P50) 
+ Nitrogen monoxide (air)	NO	ug/m3	chemiluminescence	day	104.680	107.021 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2006_mean	year_2006_median(P50) 
+ Nitrogen oxides (air)	NOX	ug NO2/m3	chemiluminescence	day	149.421	151.638 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2006_mean 
+ Ozone (air)	O3	ug/m3	UV absorption	day	17.004 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Particulate matter < 10 µm (aerosol)	PM10	ug/m3	Beta ray attenuation	day	47.998	44.500	48.383	44.400	49.884	46.704 
+

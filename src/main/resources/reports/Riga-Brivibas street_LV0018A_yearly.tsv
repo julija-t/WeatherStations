@@ -1,0 +1,15 @@
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Arsenic (aerosol)	As	ng/m3		week	1.834	1.490	0.775	0.660 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Cadmium (aerosol)	Cd	ng/m3	atomic absorption spectrometry	week	0.834	0.700	0.842	0.690 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Lead (aerosol)	Pb	ug/m3	atomic absorption spectrometry, electrometric atomization	week	0.027	0.030	0.043	0.035	0.022	0.020 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Nickel (aerosol)	Ni	ng/m3	atomic absorption spectrophotometry, electrometric atomizati	week	2.431	2.350	4.543	4.110 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2003_mean	year_2003_median(P50)	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Particulate matter < 10 µm (aerosol)	PM10	ug/m3	Beta ray attenuation	day	55.716	47.900	51.681	50.100	54.043	50.000	54.381	53.800 
+

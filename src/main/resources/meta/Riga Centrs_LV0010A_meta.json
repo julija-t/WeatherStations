@@ -1,0 +1,50 @@
+{
+    "station_info": {
+        "station_description": "A station located on the right bank of the Daugava River, in the city centre, in a commercial and residential zone. There is a highway 5m on the left, a parking on the right and a junction on 100m from the station",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 6,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": "010000",
+        "station_type_of_area": "urban",
+        "station_city": "Riga",
+        "meteorological_parameter": [
+            "Conductivity",
+            "pH",
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Absolute humidity",
+            "Relative humidity",
+            "Precipitation"
+        ],
+        "main_emission_source": "Road transport",
+        "street_name": "11.novembra krastmala 27",
+        "sabe_unit_code": "0100",
+        "station_traffic_speed": 50,
+        "monitoring_obj": [
+            "Compliance monitoring for national legislation",
+            "Trend analysis"
+        ],
+        "station_end_date": "1-1-2003",
+        "sabe_country_code": "LV",
+        "station_name": "Riga Centrs",
+        "sabe_unit_name": "R¯iga",
+        "lau_level2_code": "010000",
+        "station_longitude_dms": "+024°06'24\"",
+        "number_of_vehicles": 10000,
+        "type_of_station": "Traffic",
+        "station_characteristic_of_zone": "residential/commercial",
+        "population": 826,
+        "station_latitude_decimal_degrees": 56.9456,
+        "station_altitude": 4,
+        "station_local_code": "RC-3",
+        "station_start_date": "5-5-2000",
+        "street_type": "Highway: average speed vehicles > 80 km/h",
+        "station_european_code": "LV0010A",
+        "station_longitude_decimal_degrees": 24.1067,
+        "station_latitude_dms": "+056°56'44\"",
+        "lau_level2_name": "Riga"
+    }
+}

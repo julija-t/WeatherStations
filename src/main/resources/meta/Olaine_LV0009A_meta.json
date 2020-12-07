@@ -1,0 +1,40 @@
+{
+    "station_info": {
+        "station_description": "A station located in a rezidential zone of Olaine, 200m from the railway station Olaine",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 7,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": 800000,
+        "station_type_of_area": "urban",
+        "station_city": "OLAINE",
+        "meteorological_parameter": [
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Relative humidity",
+            "Precipitation"
+        ],
+        "main_emission_source": "Commercial, institutional and residential combustion",
+        "street_name": "Skolas 1",
+        "sabe_unit_code": 8009,
+        "sabe_country_code": "LV",
+        "station_name": "Olaine",
+        "sabe_unit_name": "Olaine",
+        "lau_level2_code": 800900,
+        "station_longitude_dms": "+023°56'04\"",
+        "type_of_station": "Background",
+        "station_characteristic_of_zone": "residential",
+        "population": 12,
+        "station_latitude_decimal_degrees": 56.782223,
+        "station_altitude": 5,
+        "station_local_code": "O1",
+        "station_start_date": "1-11-1999",
+        "street_type": "Wide street: L/H > 1.5",
+        "station_european_code": "LV0009A",
+        "station_longitude_decimal_degrees": 23.934444,
+        "station_latitude_dms": "+056°46'56\"",
+        "lau_level2_name": "Olaine"
+    }
+}

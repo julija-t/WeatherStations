@@ -1,0 +1,47 @@
+{
+    "station_info": {
+        "station_description": "A station located in a residential zone. There is a highway street 5m on the right, 150m from railway and 200m the right bank the Lielupe River from the station",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 7,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": 130000,
+        "station_type_of_area": "urban",
+        "station_city": "JURMALA",
+        "meteorological_parameter": [
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Relative humidity",
+            "Precipitation"
+        ],
+        "main_emission_source": "Road transport",
+        "street_name": "Mierovica prospekta, 37",
+        "sabe_unit_code": 1300,
+        "station_traffic_speed": 50,
+        "monitoring_obj": [
+            "Compliance monitoring for national legislation",
+            "Trend analysis"
+        ],
+        "station_end_date": "1-1-2003",
+        "sabe_country_code": "LV",
+        "station_name": "Jurmala",
+        "sabe_unit_name": "J¯urmala",
+        "lau_level2_code": 130000,
+        "station_longitude_dms": "+023°47'10\"",
+        "number_of_vehicles": 10000,
+        "type_of_station": "Traffic",
+        "station_characteristic_of_zone": "residential",
+        "population": 58,
+        "station_latitude_decimal_degrees": 56.9728,
+        "station_altitude": 3,
+        "station_local_code": "J-1",
+        "station_start_date": "4-12-1999",
+        "street_type": "Highway: average speed vehicles > 80 km/h",
+        "station_european_code": "LV0011A",
+        "station_longitude_decimal_degrees": 23.7861,
+        "station_latitude_dms": "+056°58'22\"",
+        "lau_level2_name": "Jurmala"
+    }
+}

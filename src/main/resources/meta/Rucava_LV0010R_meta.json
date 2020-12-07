@@ -1,0 +1,46 @@
+{
+    "station_info": {
+        "station_description": "Station is situated in the south-west part of Latvia (Seaside Lowland), some 10 km east from the Baltic Sea and 50 km south from the sity of Liepaja",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 3,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": 640000,
+        "station_type_of_area": "rural",
+        "meteorological_parameter": [
+            "Conductivity",
+            "pH",
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Relative humidity",
+            "Duration of sunlight",
+            "Precipitation",
+            "Direct solar radiation",
+            "Global radiation"
+        ],
+        "sabe_unit_code": 6484,
+        "monitoring_obj": [
+            "Compliance monitoring for national legislation",
+            "Trend analysis",
+            "International programmes (EMEP, GAW...)"
+        ],
+        "sabe_country_code": "LV",
+        "station_name": "Rucava",
+        "station_subcategory_rural_background": "regional",
+        "sabe_unit_name": "Rucavas pag.",
+        "lau_level2_code": 648400,
+        "station_longitude_dms": "+021°10'23\"",
+        "type_of_station": "Background",
+        "station_characteristic_of_zone": "agricultural/natural",
+        "station_latitude_decimal_degrees": 56.162,
+        "station_altitude": 18,
+        "station_local_code": "LV10",
+        "station_start_date": "7-1-1985",
+        "station_european_code": "LV0010R",
+        "station_longitude_decimal_degrees": 21.1731,
+        "station_latitude_dms": "+056°09'43\"",
+        "lau_level2_name": "Rucavas pagasts"
+    }
+}

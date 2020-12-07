@@ -1,0 +1,41 @@
+{
+    "station_info": {
+        "station_description": "Station is situated in the east of Latvia, in the northern part of the Vidzeme Hills, some 30 km south-east of the city of Cesis",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 8,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": 420000,
+        "station_type_of_area": "rural",
+        "meteorological_parameter": [
+            "Conductivity",
+            "pH",
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Relative humidity",
+            "Duration of sunlight",
+            "Precipitation",
+            "Direct solar radiation",
+            "Global radiation"
+        ],
+        "sabe_unit_code": 4298,
+        "monitoring_obj": "International programmes (EMEP, GAW...)",
+        "sabe_country_code": "LV",
+        "station_name": "Zoseni",
+        "sabe_unit_name": "Zos¯enu pag.",
+        "lau_level2_code": 429800,
+        "station_longitude_dms": "+025°54'20\"",
+        "type_of_station": "Background",
+        "station_characteristic_of_zone": "agricultural/natural",
+        "station_latitude_decimal_degrees": 57.1353,
+        "station_altitude": 183,
+        "station_local_code": "LV16",
+        "station_start_date": "1-4-1994",
+        "station_european_code": "LV0016R",
+        "station_longitude_decimal_degrees": 25.9056,
+        "station_latitude_dms": "+057°08'07\"",
+        "lau_level2_name": "Zosenu pagasts"
+    }
+}

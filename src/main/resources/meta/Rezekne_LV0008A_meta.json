@@ -1,0 +1,49 @@
+{
+    "station_info": {
+        "station_description": "A station located in the city centre in a residential and commercial zone",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 5,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": 210000,
+        "station_type_of_area": "urban",
+        "station_city": "REZEKNE",
+        "meteorological_parameter": [
+            "Conductivity",
+            "pH",
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Absolute humidity",
+            "Relative humidity",
+            "Precipitation"
+        ],
+        "main_emission_source": "Agriculture",
+        "street_name": "Atbrivoshanas aleja 116",
+        "sabe_unit_code": 2100,
+        "station_traffic_speed": 50,
+        "monitoring_obj": [
+            "Compliance monitoring for national legislation",
+            "Trend analysis"
+        ],
+        "sabe_country_code": "LV",
+        "station_name": "Rezekne",
+        "sabe_unit_name": "R¯ezekne",
+        "lau_level2_code": 210000,
+        "station_longitude_dms": "+027°20'36\"",
+        "number_of_vehicles": 2000,
+        "type_of_station": "Traffic",
+        "station_characteristic_of_zone": "residential/commercial",
+        "population": 41,
+        "station_latitude_decimal_degrees": 56.509998,
+        "station_altitude": 157,
+        "station_local_code": "Rez",
+        "station_start_date": "1-10-1999",
+        "street_type": "Wide street: L/H > 1.5",
+        "station_european_code": "LV0008A",
+        "station_longitude_decimal_degrees": 27.343334,
+        "station_latitude_dms": "+056°30'36\"",
+        "lau_level2_name": "Rezekne"
+    }
+}

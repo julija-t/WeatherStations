@@ -1,0 +1,41 @@
+{
+    "station_info": {
+        "station_description": "A rural station located some 2 km from the Oil Refinery at Mazheikiaj  (Lithuania)",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 3,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": 840000,
+        "station_type_of_area": "rural",
+        "meteorological_parameter": [
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Absolute humidity",
+            "Relative humidity",
+            "Precipitation"
+        ],
+        "main_emission_source": "Industrial combustion",
+        "sabe_unit_code": 8470,
+        "monitoring_obj": [
+            "Compliance monitoring for national legislation",
+            "Trend analysis"
+        ],
+        "sabe_country_code": "LV",
+        "station_name": "Nigrande",
+        "sabe_unit_name": "N¯igrandes pag.",
+        "lau_level2_code": 847000,
+        "station_longitude_dms": "+022°10'21\"",
+        "type_of_station": "Background",
+        "station_characteristic_of_zone": "industrial",
+        "station_latitude_decimal_degrees": 56.429169,
+        "station_altitude": 112,
+        "station_local_code": "Nig-1",
+        "station_start_date": "1-5-1998",
+        "station_european_code": "LV0013A",
+        "station_longitude_decimal_degrees": 22.172499,
+        "station_latitude_dms": "+056°25'45\"",
+        "lau_level2_name": "Nigrandes pagasts"
+    }
+}

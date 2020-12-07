@@ -1,0 +1,51 @@
+{
+    "station_info": {
+        "station_description": "A station located on the right bank of the Daugava River, in the rezidential and commercial zone, 5m from the street, 100m from crossing, on the roof of the Latvian University building.",
+        "station_nuts_level2": 0,
+        "station_area_of_representativeness": 0.24,
+        "station_nuts_level3": 6,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": "010000",
+        "station_type_of_area": "urban",
+        "station_city": "Riga",
+        "meteorological_parameter": [
+            "Conductivity",
+            "pH",
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Absolute humidity",
+            "Relative humidity",
+            "Precipitation",
+            "Direct solar radiation",
+            "Global radiation"
+        ],
+        "main_emission_source": "Public power, co-generation and district heating",
+        "street_name": "19 Raina boulevard",
+        "sabe_unit_code": "0100",
+        "monitoring_obj": [
+            "Compliance monitoring for EC Directives incl. assessment of on-going abatement programmes and/or for the prediction of planned abatement actions",
+            "Compliance monitoring for national legislation",
+            "Trend analysis"
+        ],
+        "sabe_country_code": "LV",
+        "station_name": "Riga Park",
+        "sabe_unit_name": "R¯iga",
+        "lau_level2_code": "010000",
+        "station_longitude_dms": "+024°06'58\"",
+        "type_of_station": "Background",
+        "station_characteristic_of_zone": "residential/commercial",
+        "population": 826,
+        "station_latitude_decimal_degrees": 56.950001,
+        "station_altitude": 20,
+        "station_local_code": "RP-5",
+        "station_start_date": "15-3-2003",
+        "street_type": "Wide street: L/H > 1.5",
+        "station_european_code": "LV0019A",
+        "station_longitude_decimal_degrees": 24.116112,
+        "station_latitude_dms": "+056°57'00\"",
+        "lau_level2_name": "Riga"
+    }
+}

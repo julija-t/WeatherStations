@@ -1,0 +1,42 @@
+{
+    "station_info": {
+        "station_description": "A station located on the right bank of the Daugava River, in a residential and commercial zone",
+        "station_nuts_level2": 0,
+        "station_nuts_level3": 5,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": "050000",
+        "station_type_of_area": "urban",
+        "station_city": "DAUGAVPILS",
+        "meteorological_parameter": [
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Relative humidity",
+            "Precipitation"
+        ],
+        "main_emission_source": "Commercial, institutional and residential combustion",
+        "street_name": "Udensvada",
+        "sabe_unit_code": "0500",
+        "station_end_date": "1-1-2003",
+        "sabe_country_code": "LV",
+        "station_name": "Daugavpils",
+        "sabe_unit_name": "Daugavpils",
+        "lau_level2_code": "050000",
+        "station_longitude_dms": "+026°32'24\"",
+        "number_of_vehicles": 2000,
+        "type_of_station": "Background",
+        "station_characteristic_of_zone": "residential/commercial",
+        "population": 116,
+        "station_latitude_decimal_degrees": 55.862,
+        "station_altitude": 122,
+        "station_local_code": "D1",
+        "station_start_date": "1-7-1998",
+        "street_type": "Wide street: L/H > 1.5",
+        "station_european_code": "LV0006A",
+        "station_longitude_decimal_degrees": 26.54,
+        "station_latitude_dms": "+055°51'43\"",
+        "lau_level2_name": "Daugavpils"
+    }
+}

@@ -1,0 +1,12 @@
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2001_mean	year_2001_median(P50) 
+ Mercury (air+aerosol)	Hg	ng/m3	atomic absorption spectrometry	day	14.655	9.642 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_1999_mean	year_1999_median(P50)	year_2000_mean	year_2000_median(P50)	year_2001_mean	year_2001_median(P50)	year_2002_mean	year_2002_median(P50)	year_2003_mean	year_2003_median(P50)	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Nitrogen dioxide (air)	NO2	ug/m3	DOAS	day	25.504	23.404	24.576	22.650	25.704	24.271	24.889	22.867	25.418	23.079	27.931	25.942	34.926	32.292	30.576	29.300 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_1999_mean	year_2000_mean	year_2001_mean	year_2002_mean	year_2003_mean	year_2004_mean	year_2005_mean	year_2006_mean 
+ Ozone (air)	O3	ug/m3	DOAS	day	59.607	53.144	55.014	56.295	47.858	49.181	30.766	41.576 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_1999_mean	year_1999_median(P50)	year_2000_mean	year_2000_median(P50)	year_2001_mean	year_2001_median(P50)	year_2002_mean	year_2002_median(P50)	year_2003_mean	year_2003_median(P50)	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Sulphur dioxide (air)	SO2	ug/m3	DOAS	day	8.338	6.679	6.117	5.092	5.022	3.418	3.385	2.789	4.746	3.667	4.034	2.964	6.349	5.929	6.457	5.300 
+

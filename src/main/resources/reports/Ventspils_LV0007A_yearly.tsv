@@ -1,0 +1,9 @@
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2000_mean	year_2000_median(P50)	year_2001_mean	year_2001_median(P50)	year_2002_mean	year_2002_median(P50)	year_2003_mean	year_2003_median(P50)	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Nitrogen dioxide (air)	NO2	ug/m3	DOAS	day	20.469	19.823	17.620	16.783	20.180	18.879	20.115	19.217	19.271	18.475	15.840	14.308	16.780	15.821 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2000_mean	year_2001_mean	year_2002_mean	year_2003_mean	year_2004_mean	year_2005_mean	year_2006_mean 
+ Ozone (air)	O3	ug/m3	DOAS	day	57.899	62.889	52.006	51.316	65.707	58.894	47.857 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2000_mean	year_2000_median(P50)	year_2001_mean	year_2001_median(P50)	year_2002_mean	year_2002_median(P50)	year_2003_mean	year_2003_median(P50)	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Sulphur dioxide (air)	SO2	ug/m3	DOAS	day	8.429	6.908	7.037	5.325	6.067	4.291	6.539	5.760	6.964	5.979	6.519	5.017	6.232	4.883 
+

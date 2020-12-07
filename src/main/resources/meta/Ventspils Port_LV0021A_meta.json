@@ -1,0 +1,47 @@
+{
+    "station_info": {
+        "station_description": "A station located on the left bank of the Venta River, in the rezidential and industrial zone 500m from  the port.",
+        "station_nuts_level2": 0,
+        "station_area_of_representativeness": 0.2,
+        "station_nuts_level3": 3,
+        "station_nuts_level0": "LV",
+        "station_nuts_level1": 0,
+        "lau_level1_code": 270000,
+        "station_type_of_area": "urban",
+        "station_city": "VENTSPILS",
+        "meteorological_parameter": [
+            "Wind velocity",
+            "Wind direction",
+            "Pressure",
+            "Temperature",
+            "Absolute humidity",
+            "Relative humidity",
+            "Precipitation"
+        ],
+        "main_emission_source": "Public power, co-generation and district heating",
+        "street_name": "36 Yuras street",
+        "sabe_unit_code": 2700,
+        "monitoring_obj": [
+            "Compliance monitoring for EC Directives incl. assessment of on-going abatement programmes and/or for the prediction of planned abatement actions",
+            "Compliance monitoring for national legislation",
+            "Trend analysis"
+        ],
+        "sabe_country_code": "LV",
+        "station_name": "Ventspils Port",
+        "sabe_unit_name": "Ventspils",
+        "lau_level2_code": 270000,
+        "station_longitude_dms": "+021°33'14\"",
+        "type_of_station": "Background",
+        "station_characteristic_of_zone": "residential/industrial",
+        "population": 46,
+        "station_latitude_decimal_degrees": 57.393059,
+        "station_altitude": 1,
+        "station_local_code": "Ven-2",
+        "station_start_date": "2-1-2002",
+        "street_type": "Wide street: L/H > 1.5",
+        "station_european_code": "LV0021A",
+        "station_longitude_decimal_degrees": 21.553888,
+        "station_latitude_dms": "+057°23'35\"",
+        "lau_level2_name": "Ventspils"
+    }
+}

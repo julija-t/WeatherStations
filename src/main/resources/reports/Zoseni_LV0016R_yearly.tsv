@@ -1,0 +1,33 @@
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Arsenic (aerosol)	As	ng/m3	atomic absorption spectrometry, electrometric atomization	week	0.487	0.310	0.379	0.270 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2006_mean	year_2006_median(P50) 
+ Benzene (air)	C6H6	ug/m3	gas chromatography mass spectrometry (GC-MS)	month	0.867	0.600 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Benzo(a)pyrene (air+aerosol)	BaP	ng/m3	gas chromatography mass spectrometry (GC-MS)	month	0.049	0.022	0.099	0.078 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Cadmium (aerosol)	Cd	ng/m3	atomic absorption spectrometry, electrometric atomization	week	0.178	0.110	0.151	0.120 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2002_mean	year_2002_median(P50)	year_2003_mean	year_2003_median(P50)	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Lead (aerosol)	Pb	ug/m3	atomic absorption spectrometry, electrometric atomization	week	0.003	0.003	0.004	0.004	0.003	0.002	0.004	0.003	0.003	0.000 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Nickel (aerosol)	Ni	ng/m3	atomic absorption spectrometry, electrometric atomization	week	0.956	0.720	0.662	0.590 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_1997_mean	year_1997_median(P50)	year_1998_mean	year_1998_median(P50)	year_1999_mean	year_1999_median(P50)	year_2000_mean	year_2000_median(P50)	year_2001_mean	year_2001_median(P50)	year_2002_mean	year_2002_median(P50)	year_2003_mean	year_2003_median(P50)	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Nitrogen dioxide (air)	NO2	ug/m3	spectrophotometry	day	2.097	1.600	1.942	1.600	1.918	1.600	2.156	2.000	2.183	2.000	2.268	1.840	1.910	1.460	1.984	1.610	1.950	1.580	1.613	1.250 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2001_mean	year_2001_median(P50) 
+ Particulate ammonium (aerosol)	NH4	ug/m3	spectrophotometry	day	0.696	0.620 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2001_mean	year_2001_median(P50) 
+ Particulate nitrate (aerosol)	NO3	ug/m3	Giess-Saltzmann reaction	day	0.644	0.530 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_2001_mean	year_2001_median(P50) 
+ Particulate sulphate (aerosol)	SO4 (H2SO4 aerosols) (SO4--)	ug/m3	spectrophotometry	day	0.563	0.390 
+
+component_name	component_caption	measurement_unit	measurement_technique_principle	statistics_average_group	year_1997_mean	year_1997_median(P50)	year_1998_mean	year_1998_median(P50)	year_1999_mean	year_1999_median(P50)	year_2000_mean	year_2000_median(P50)	year_2001_mean	year_2001_median(P50)	year_2002_mean	year_2002_median(P50)	year_2003_mean	year_2003_median(P50)	year_2004_mean	year_2004_median(P50)	year_2005_mean	year_2005_median(P50)	year_2006_mean	year_2006_median(P50) 
+ Sulphur dioxide (air)	SO2	ug/m3	ion chromatography	day	1.468	1.000	1.279	0.800	1.178	0.600	0.494	0.400	0.593	0.400	1.136	0.780	1.155	0.820	1.004	0.720	1.072	0.740	1.123	0.780 
+
